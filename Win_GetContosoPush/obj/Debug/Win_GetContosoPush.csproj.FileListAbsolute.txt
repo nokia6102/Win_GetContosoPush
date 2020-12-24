@@ -1,0 +1,13 @@
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.csprojAssemblyReference.cache
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_TestPicClassify.Form1.resources
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.csproj.GenerateResource.cache
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.csproj.CoreCompileInputs.cache
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\bin\Debug\Win_GetContosoPush.exe.config
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\bin\Debug\Win_GetContosoPush.exe
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\bin\Debug\Win_GetContosoPush.pdb
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.Properties.Resources.resources
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.exe
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.pdb
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ERIC\Desktop\AI\Win_GetContosoPush\Win_TestPicClassify\obj\Debug\Win_GetContosoPush.csproj.CopyComplete
